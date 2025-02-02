@@ -1,0 +1,10 @@
+{
+    "starting_enemies": 6,
+    "max_enemies": 10,
+    "starting_stars": 5,
+    "max_stars": 9,
+    "starting_coins": 5,
+    "max_coins": 100,
+    "starting_gems": 5,
+    "max_gems": 100
+}
